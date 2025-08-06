@@ -17,13 +17,15 @@ Tetris is an innovative placement strategy that optimizes the distribution of ap
 
 ## 📁 Project Structure
 
-latest_master-main/
+```bash
+tetris/
 │
 ├── datasets/ # Input configurations and results from simulations
-├── notebooks/ # Jupyter notebooks for visualization and analysis
+├── notebooks/ # Jupyter notebooks for running experiments and data analysis
+├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ## 🚀 Getting Started
 
