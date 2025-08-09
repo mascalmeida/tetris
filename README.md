@@ -12,7 +12,7 @@ Tetris is an innovative placement strategy that optimizes the distribution of ap
 - Deadline- and capacity-aware scheduling
 - Resource fragmentation avoidance
 - Drop and latency violation mitigation
-- Integration with [EdgeSimPy](https://github.com/mascalmeida/edgesimpy)
+- Integration with [EdgeSimPy](https://github.com/EdgeSimPy/EdgeSimPy)
 - Fully reproducible experiments
 
 ## 📁 Project Structure
@@ -33,7 +33,7 @@ tetris/
 
 - Python 3.9+
 - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-- EdgeSimPy simulator
+- [EdgeSimPy simulator](https://github.com/EdgeSimPy/EdgeSimPy)
 
 ### Installation
 
