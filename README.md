@@ -33,7 +33,7 @@ tetris/
 
 - Python 3.9+
 - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-- EdgeSimPy simulator (customized)
+- EdgeSimPy simulator
 
 ### Installation
 
