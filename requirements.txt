@@ -5,5 +5,4 @@ seaborn
 matplotlib
 scikit-learn
 statsmodels
-edge_sim_py
 msgpack
