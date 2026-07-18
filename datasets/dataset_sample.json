@@ -2036,7 +2036,7 @@
                     "1": null
                 },
                 "delay_slas": {
-                    "1": 40.0
+                    "1": 44.0
                 },
                 "communication_paths": {},
                 "making_requests": {
@@ -2327,7 +2327,7 @@
                     "2": null
                 },
                 "delay_slas": {
-                    "2": 43.0
+                    "2": 37.0
                 },
                 "communication_paths": {},
                 "making_requests": {
