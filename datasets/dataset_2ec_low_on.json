@@ -2055,7 +2055,7 @@
                     "1": null
                 },
                 "delay_slas": {
-                    "1": 16.0
+                    "1": 2.0
                 },
                 "communication_paths": {},
                 "making_requests": {
@@ -2346,7 +2346,7 @@
                     "2": null
                 },
                 "delay_slas": {
-                    "2": 12.0
+                    "2": 19.0
                 },
                 "communication_paths": {},
                 "making_requests": {
@@ -2637,7 +2637,7 @@
                     "3": null
                 },
                 "delay_slas": {
-                    "3": 22.0
+                    "3": 16.0
                 },
                 "communication_paths": {},
                 "making_requests": {
@@ -2928,7 +2928,7 @@
                     "4": null
                 },
                 "delay_slas": {
-                    "4": 19.0
+                    "4": 20.0
                 },
                 "communication_paths": {},
                 "making_requests": {
@@ -3219,7 +3219,7 @@
                     "5": null
                 },
                 "delay_slas": {
-                    "5": 17.0
+                    "5": 21.0
                 },
                 "communication_paths": {},
                 "making_requests": {
@@ -3510,7 +3510,7 @@
                     "6": null
                 },
                 "delay_slas": {
-                    "6": 19.0
+                    "6": 16.0
                 },
                 "communication_paths": {},
                 "making_requests": {
