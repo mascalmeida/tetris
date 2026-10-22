@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+notebooks/results/tetris_hyper_sensitivity_server_raw.csv
+notebooks/results/tetris_hyper_sensitivity_user_raw.csv
+
 # C extensions
 *.so
 
