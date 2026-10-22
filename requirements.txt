@@ -1,7 +1,17 @@
-pandas
-numpy
-scipy
-seaborn
-matplotlib
-scikit-learn
-statsmodels
+# Versions checked for this tutorial with Python 3.10.20.
+# This is a reproduction environment, not a complete historical lockfile.
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+seaborn==0.13.2
+matplotlib==3.10.7
+scikit-learn==1.7.2
+statsmodels==0.14.5
+Mesa==1.2.1
+networkx==3.4.2
+msgpack==1.1.2
+edge-sim-py @ git+https://github.com/EdgeSimPy/EdgeSimPy.git@76eb5ead74596bb4240759fa4336f1d6f190c70a
+jupyterlab==4.5.7
+nbconvert==7.17.1
+nbclient==0.10.4
+ipykernel==7.2.0
